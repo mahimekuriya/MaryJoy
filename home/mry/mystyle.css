@@ -1,0 +1,29 @@
+.cbe{
+  float: left;
+
+}
+.bib{
+  float: right;
+}
+.flink{
+  color:#33ccff;
+}
+.yanosat{
+  height:8vh;
+  background-color:   #254d74;
+}
+.company{
+  margin-top: 10px;
+}
+.sir{
+ font-family:'Playfair Display';
+ margin-top: 10px;
+ color: white;
+}
+.pa{
+  color: red;
+}
+
+#programs:hover{
+  color: red;
+}

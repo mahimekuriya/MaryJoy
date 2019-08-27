@@ -1,0 +1,34 @@
+.img{
+  margin-left: 20px;
+  border-radius: 80px;
+}
+.desc{
+  /* width: 60%; */
+  border: 2px;
+  font-size: 20px;
+    border-radius: 140px;
+    margin-left:100px;
+
+
+}
+.img{transition: transform .2s;}
+.img:hover {
+  transform: scale(1.1);}
+
+.mission{
+  margin: 40px;
+  margin-left: 60px;
+}
+
+.dr{border-color: blue;}
+ul{
+  list-style-type: none; line-height: 2;
+}
+i {
+  color:
+}
+.maincontainer{
+  width: 100%;
+  margin: 10px auto;
+}
+.yi{line-height: 2;}

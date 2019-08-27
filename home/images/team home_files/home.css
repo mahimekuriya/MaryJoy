@@ -1,0 +1,31 @@
+
+
+.card1{
+  border: 2px solid grey;
+  border-radius: 40px;
+  box-shadow: 5px 2px 6px grey;
+  width: 40%;
+  padding: 20px 120px 20px 120px;
+  margin: 10px auto ;
+
+}
+
+.card-title1{
+  text-align: center;
+
+}
+ .who{
+   line-height: 40px
+ }
+
+.card-text{
+  font-size: 23px
+}
+
+.image{
+  border:20px solid
+  border-radius: 50%;
+  border-style: solid;
+  border: 2px;
+  width:10px
+  height:10px

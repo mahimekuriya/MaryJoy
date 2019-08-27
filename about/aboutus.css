@@ -1,0 +1,20 @@
+{color: yellow;font-size: 35px;}
+.mi{
+  font-size: 60px;
+  height: 20vh;
+  border: 2px solid grey;
+  border-radius: 5PX;
+  padding: 70PX;
+  font-style:italic;
+
+}
+body{
+  margin: 60px;
+}
+.im{margin-right: 120px;}
+
+.tex{margin right:70px;}
+.ti{margin-right:70px; }
+
+.ru{margin right: -32px;}
+.it{width: 5%;}

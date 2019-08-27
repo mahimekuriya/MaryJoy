@@ -1,0 +1,74 @@
+
+
+.card1{
+  border: 2px solid #ddd;
+  border-radius: 90px;
+  box-shadow: 5px 2px 6px grey;
+  width: 60%;
+  padding: 20px 120px 20px 120px;
+  margin: 70px auto ;
+  transition: transform.2s;
+}
+.tarlist li {
+  line-height: 3;
+}
+
+.card1{
+  transition: transform.2s;
+}
+.card1:hover{
+  transform:scale(1.1);}
+}
+.card-title1{
+  text-align: center;
+
+}
+ .who{
+   line-height: 40px
+ }
+
+.card-text{
+  font-size: 23px
+}
+
+.image{
+  border:20px solid
+  border-radius: 50%;
+  border-style: solid;
+  border: 2px;
+  width:10px
+  height:10px
+}
+.imagesec{
+  float: left;
+  transition: transform.2s;
+
+}
+
+
+.imagesec:hover{transform:scale(1.1);}
+
+
+li{
+  font-size: 18px;
+}
+#diligently{
+  font-size: 18px;
+}
+
+#aids{
+  border-left: 8px solid skyblue;
+
+}
+#comm
+
+{border-right: 8px solid skyblue;}
+
+#org{border-left: 8px solid skyblue;
+
+}
+
+#pri{
+  border-right: 8px solid skyblue;
+  float: right;
+}

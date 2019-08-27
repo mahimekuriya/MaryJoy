@@ -1,0 +1,22 @@
+.main{
+  margin:15px auto;
+  font-size: 20px;
+
+}
+.title{
+  font-family:'Teko';
+  font-size: 44px;
+  color: #001a4d;
+}
+li{
+  font-size: 20px;
+  line-height: 1.6;
+  margin-bottom: 20 px;
+}
+body{
+background-color: #f4f4f4;
+width: 100%;
+}
+#vol{
+  font-weight: 600;
+}
